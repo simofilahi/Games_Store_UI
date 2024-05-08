@@ -1,16 +1,20 @@
-# whatsapp_clone
+# Games Store UI
 
-A new Flutter project.
+## Overview
+
+This repository contains the source code for a Flutter-based UI for a games store app. It is designed to provide a smooth and intuitive user interface for exploring and purchasing games.
+
+## Features
+
+- Modern and clean user interface
+- Responsive design suitable for both mobile and web platforms
+- Navigation, product listing, and checkout functionalities
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/simofilahi/Games_Store_UI.git
+cd Games_Store_UI
+flutter run
